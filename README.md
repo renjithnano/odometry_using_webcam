@@ -6,7 +6,7 @@ A webcam based  visual odometry (VO) with 4 components: initialization, tracking
 
 A demo:  
 <p align = "center">
-  <img src = "https://github.com/renjithnano/odometry_using_webcam/results/VO_No_Opti.gif" height = "240px">
+  <img src = "https://github.com/renjithnano/odometry_using_webcam/tree/master/results/VO_No_Opti.gif" height = "240px">
 </p>
 
 
